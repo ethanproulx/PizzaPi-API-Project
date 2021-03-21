@@ -1,11 +1,10 @@
 {
-    //Customer Information
+    
     "firstName":"",
     "lastName":"",
     "emailAddress":"",
     "password":"",
 
-    //Customer Address
     "streetAddress":"",
     "city":"",
     "state":"",
