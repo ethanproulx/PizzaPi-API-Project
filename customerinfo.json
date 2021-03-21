@@ -8,6 +8,8 @@
     "streetAddress":"",
     "city":"",
     "state":"",
-    "zipCode":""
+    "zipCode":"",
+
+    "order":[]
 
 }
